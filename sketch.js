@@ -1,5 +1,3 @@
-var r1 = 0;
-var r2 = 0;
 
 function setup() {
     noStroke();
