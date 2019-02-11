@@ -87,5 +87,6 @@ div.desc {
 .contactinfo{ border: white;
     font-size: 120%;
     width: 70%;
-    height: 30%
+    height: 30%;
+     margin: 20%;
 }
