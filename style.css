@@ -1,50 +1,47 @@
 
-.bgimg {
-          background-color: lightpink;
-          min-height: 100%;
-          background-size: cover;
-          color: white;}
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: lightpink;
-}
+<html>
+  <head> 
+      <h1>Works</h1>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+ 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ </head>
+    
+    
+    <body>
+        
+        </div>
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_forest.jpg">
+              <img src="" alt="Forest" width="600" height="600">
+            </a>
+            <div class="desc">Photo</div>
+          </div>
+        </div>
 
-ul {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img_lights.jpg">
+              <img src="img_lights.jpg" alt="Northern Lights" width="600" height="600">
+            </a>
+            <div class="desc">Art</div>
+          </div>
+        </div>
 
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-img{ width:600px;
-    height: 500px;
-    padding: 15px 15px;
-    border: 1px solid white;
-    border-style:dotted
-}
-
-.center {
-  padding: 10% 0;
-  text-align: center;
-}
-
-.w3-display-topleft{position:absolute;left:0;top:0}
-
-.w3-xlarge{font-size:24px!important}
-
-.w3-padding-large{padding:12px 24px!important} 
+        <ul>
+            <li><a href="index.html">hi!</a></li>
+            <li><a href="works.html">works</a></li>
+            <li><a href="contact.html">contact</a></li>
+           
+        </ul>
+    
+            
+       
+     
+    </body>
+</html>
 
