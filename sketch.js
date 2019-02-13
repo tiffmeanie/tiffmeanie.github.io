@@ -3,7 +3,7 @@ function setup() {
     noStroke();
     noFill();
     rectMode(CENTER);
-    var cnv = createCanvas(800, 200);
+    var cnv = createCanvas(width, 200);
     
     //var cnv = createCanvas(windowWidth, windowHeight);
     cnv.style('display', 'block');
