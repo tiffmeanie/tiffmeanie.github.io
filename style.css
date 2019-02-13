@@ -14,7 +14,7 @@ ul {
   padding: 0;
   position: fixed;
   bottom:0;
-  width: 100%;
+  width: 100%; !important
 }
 
 li {
@@ -27,7 +27,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  width:100%;
+  width:100% !important;
       font-size: 200%
 }
 
@@ -68,11 +68,6 @@ li a {
     transform: scale(0);
     -webkit-transition: all 350ms ease;
     transition: all 350ms ease;
-
-}
-.tile:hover { 
-
-}
 
 
 
