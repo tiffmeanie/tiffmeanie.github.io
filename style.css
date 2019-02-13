@@ -72,7 +72,16 @@ li a {
 .tile:hover { 
 
 }
-
+.tile img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  
+}
+.scale-anm {
+  transform: scale(1);
+}
 
 
 
