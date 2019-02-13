@@ -1,5 +1,4 @@
-h1{font-size:200%;
-    font-family:'Raleway';}
+
 
 html {    font-family: 'Raleway', sans-serif;
           background-color: lightpink;
@@ -135,4 +134,13 @@ p:hover {
   border: 0;
   padding: 0;
 }
+
+
+
+
+
+
+h1{font-size:200%;
+    font-family:'Raleway';
+    margin: 10px;}
 
