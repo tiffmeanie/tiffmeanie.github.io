@@ -142,5 +142,5 @@ p:hover {
 
 h1{font-size:200%;
     font-family:'Raleway';
-    margin: 10px;}
+    margin: 10px; !important}
 
